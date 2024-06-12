@@ -696,7 +696,7 @@ footer .copyright {
 }
   .home {
   width: 100%;
-  height: auto;
+  height: 108vh;
   background-color: rgb(11, 11, 31);
   background-size: cover;
   background-position: center;
