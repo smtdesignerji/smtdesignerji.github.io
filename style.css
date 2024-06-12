@@ -716,6 +716,8 @@ footer .copyright {
   background-size: cover;
   background-position: center;
 }
-   
+    .image{
+    padding: 13px 15px;
+  }
    
     }
